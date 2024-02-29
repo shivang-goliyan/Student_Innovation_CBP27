@@ -7,9 +7,16 @@ Overview:
 - The platform features user friendly GUI providing a seamless experience for managing medical records and diagnosing diseases based on the symptoms provided by the user.
 
 Key Features:
-- Virtual Chat Bot, this chatbot can be customised as per the medical history of the patient and help in diagnosing the diseases based on the symptoms provided by the user. It will also use a pre-defined data set of symptoms and diseases verified by doctors.
+- 24/7 diagnosis by Virtual Chat Bot, this chatbot can be customised as per the medical history of the patient and help in diagnosing the diseases based on the symptoms provided by the user. It will also use a pre-defined data set of symptoms and diseases verified by doctors.
 - Secured Medical History, user data will be securely stored on the blockchain using smart contracts written in solidity. This will ensure that the personal information about the patient cannot be manipulated easily and accessed unethically.
 - Access Contorl, Doctors can only access patient data via their unique id/key ensuring confidentiality.
+- Appointment Scheduling, users will be able to manage appointments with the nearby healthcare providers based on their ratings.
+- Rating system for the doctor which have been visited by the patient.
+
+Value Addition:
+- Cost Effective
+- Time Efficient
+- Secured
 
 Technologies Used:
 - Programming Language : Python, Solidity.
