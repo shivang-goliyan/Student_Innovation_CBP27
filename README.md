@@ -2,4 +2,8 @@
 Problem Statment - CBP27
 Problem Title - MedTech / BioTech / HealthTech
 
-O
+GUI will be created which provides the User/Patient with their 'Life Medical History'.
+GUI will include a virtual chatbot which can help the clients in diagnosing their disease using symptoms, which will be given to the chatbot through a data set.
+User Data will also be stored on blockchain, the doctor can only access the patients data via their unique 'ID/Key'.
+Solidity will be used to create smart contracts to store the information of the patient on blockchain.
+Web3 will be utilised to connect solidity contract with python GUI.
